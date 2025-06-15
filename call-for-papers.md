@@ -2,7 +2,6 @@
 
 ---
 <h2 style="color:#2e6da4;">Steering Co-Chairs</h2>
-
 **Steering Co-Chairs**  
 Deke Guo (National University of Defense Technology)  
 Dezun Dong (National University of Defense Technology)  
