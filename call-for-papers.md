@@ -114,7 +114,8 @@ INCAS 2025 aims to bring together researchers and practitioners at the intersect
 **7.    Security and robustness enhancement for INC**  
 -	In-network security policies and anomaly detection mechanisms
 -	Fault isolation, recovery, and robustness in deployed programmable networks
--	Experiences and lessons from production-level or testbed-scale INC deployments  
+-	Experiences and lessons from production-level or testbed-scale INC deployments
+
 ---
 We will follow the submission format requirements of previous CoNEXT workshops:
 Submissions must be original, unpublished work, and not under consideration at another
