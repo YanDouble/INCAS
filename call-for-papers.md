@@ -75,18 +75,10 @@ Yang Zhou (UCB & UCD)
 In-network computing (INC) has emerged as a powerful paradigm that integrates computation directly into the network fabric. By leveraging programmable switches, SmartNICs, and other data plane devices, INC enables unprecedented opportunities to accelerate distributed systems, data analytics, and AI workloads. As modern applications demand lower latency, higher throughput, and greater resource efficiency, INC is rapidly gaining traction in both academia and industry.
 INCAS 2025 aims to bring together researchers and practitioners at the intersection of networking, systems, and AI to explore how INC can reshape the architecture of distributed computing. We invite original research contributions that investigate the design, implementation, and deployment of in-network computing, especially in the context of real-world constraints such as limited hardware resources, system-level integration, and stringent performance requirements. Topics of interest include, but are not limited to: 
 
-<div style="padding-left: 40px;">
-  <ul>
-    <li>Item 1</li>
-    <li>Item 2</li>
-  </ul>
-</div>
-
-
-**1. INC for AI workloads**  
--	In-network acceleration of machine learning inference (e.g., CNNs, RNNs, transformers)
--	In-network acceleration for distributed model training, e.g., efficient in-network execution of collective operations
--	Explorations on deploying large vision and language models with INC
+    **1. INC for AI workloads**  
+        -	In-network acceleration of machine learning inference (e.g., CNNs, RNNs, transformers)
+        -	In-network acceleration for distributed model training, e.g., efficient in-network execution of collective operations
+        -	Explorations on deploying large vision and language models with INC
 
 **2. INC for distributed data analytics**  
 -	In-network support for real-time data aggregation, transformation, and filtering
