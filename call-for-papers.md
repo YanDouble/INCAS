@@ -5,13 +5,15 @@
 **Steering Co-Chairs**
 
 Deke Guo (National University of Defense Technology)
+
 Dezun Dong (National University of Defense Technology)
+
 Theophilus A. Benson (Carnegie Mellon University)
+
 
 **Organization Co-Chairs：**
 
 **Wenfei Wu (Peking University)**
-
 Dr. Wenfei Wu is a Boya young scholar and an assistant professor in the School of Computer Science at Peking University. He received his PhD from University of Wisconsin-Madison. His research focuses on computer networks and distributed systems and published more than 50 papers. His research about In-Network Computing (INC) received several awards, including NSDI’21 best paper award for INC-accelerated distributed training, ASPLOS’21 distinguished paper award for INC-accelerate data analytics, and CPCC’24 (Chinese Computation Power Conference) best academic paper for RDMA-compatible collective communication. Dr. Wu is the leading the INC workgroup in Ethernet+ Consortium.
 
 **Xiaoxi Zhang (Sun Yat-sen University)**
@@ -35,13 +37,16 @@ The rise of programmable network devices -- such as switches and SmartNICs -- ha
 
 Songjun Huang (Sun Yat-sen University)
 
+
 **Publication Chair**
 
 Jianqiang Zhong (Sun Yat-sen University)
 
+
 **Publicity Chair**
 
 Haoran Xu (Sun Yat-sen University)
+
 
 **Program Committee Members**
 
@@ -168,6 +173,7 @@ INCAS 2025 aims to bring together researchers and practitioners at the intersect
 -	In-network security policies and anomaly detection mechanisms
 -	Fault isolation, recovery, and robustness in deployed programmable networks
 -	Experiences and lessons from production-level or testbed-scale INC deployments
+
 ---
 We will follow the submission format requirements of previous CoNEXT workshops:
 Submissions must be original, unpublished work, and not under consideration at another
@@ -230,8 +236,13 @@ To ensure strong participation and broad visibility, the **INCAS 2025** workshop
 **Important Date (All AoE Time)**
 
 Workshop paper abstract registration: July 8th, 2025
+
 Workshop paper submission: July 15th, 2025
+
 Notification of acceptance: August 31st, 2025
+
 Camera-ready workshop papers: September 25th, 2025
+
 Program available online: October 12th, 2025
+
 List of organization details: October 12th, 2025
