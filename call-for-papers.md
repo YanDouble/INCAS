@@ -75,17 +75,17 @@ Yang Zhou (UCB & UCD)
 In-network computing (INC) has emerged as a powerful paradigm that integrates computation directly into the network fabric. By leveraging programmable switches, SmartNICs, and other data plane devices, INC enables unprecedented opportunities to accelerate distributed systems, data analytics, and AI workloads. As modern applications demand lower latency, higher throughput, and greater resource efficiency, INC is rapidly gaining traction in both academia and industry.
 INCAS 2025 aims to bring together researchers and practitioners at the intersection of networking, systems, and AI to explore how INC can reshape the architecture of distributed computing. We invite original research contributions that investigate the design, implementation, and deployment of in-network computing, especially in the context of real-world constraints such as limited hardware resources, system-level integration, and stringent performance requirements. Topics of interest include, but are not limited to: 
 
-**1.    INC for AI workloads**  
+**1. INC for AI workloads**  
 -	In-network acceleration of machine learning inference (e.g., CNNs, RNNs, transformers)
 -	In-network acceleration for distributed model training, e.g., efficient in-network execution of collective operations
 -	Explorations on deploying large vision and language models with INC
 
-**2.    INC for distributed data analytics**  
+**2. INC for distributed data analytics**  
 -	In-network support for real-time data aggregation, transformation, and filtering
 -	Acceleration of stream and batch processing pipelines
 -	Integration of INC into distributed query execution and analytics engines
 
-**3.    AI with INC for network management**  
+**3. AI with INC for network management**  
 -	AI-enhanced network traffic engineering using INC, intelligent traffic prediction, advanced telemetry, and AI-enabled use of INC for real-time anomaly detection and fault diagnosis
 -	AI-driven network management, orchestration, and resource optimization leveraging INC, including applications of AI/ML with INC for efficient network control and automated management
 -	Predictive network maintenance using INC and AI for proactive fault prediction and intelligent maintenance scheduling
@@ -94,24 +94,24 @@ INCAS 2025 aims to bring together researchers and practitioners at the intersect
 -	Programmable fault monitoring and distributed failure response mechanisms
 -	Protocol enhancement via INC, e.g., redesign of end-to-end protocols to take advantage of programmable dataplanes
 
-**4.    INC for data storage and caching**  
+**4. INC for data storage and caching**  
 -	In-network support for key-value lookups, metadata indexing, and content-addressable storage
 -	Programmable data paths for consistency enforcement, replication, and coordination in distributed storage
 -	On-path caching, coherence, and eviction mechanisms for latency-sensitive workloads
 -	Acceleration of storage systems and protocols (e.g., NFS, NVMe-over-Fabrics), including those leveraging RDMA-based transports
 -	Offloading I/O processing and load balancing in large-scale storage clusters using programmable switches or SmartNICs
 
-**5.    Protocol and system-level innovations for INC**  
+**5. Protocol and system-level innovations for INC**  
 -	INC-aware routing protocol design, including programmable control over path selection, route updates, and fast failoverIn-network support for congestion control, reliability, and flow scheduling
 -	In-network support for transport-layer functions, such as congestion control, reliability, and flow scheduling
 -	Task coordination, pipelining, and batching mechanisms within in-network systems
 -	Adaptive resource allocation and scheduling for switch/NIC/FPGA-based environments
 
-**6.    Tooling and development support for INC**  
+**6. Tooling and development support for INC**  
 -	Compilers, debuggers, and developer tools for INC platforms
 -	Using foundation models (e.g., LLMs or diffusion models) to assist INC system design, and their application for intelligent network operations, management, and AI-powered assistants in INC environments.
 
-**7.    Security and robustness enhancement for INC**  
+**7. Security and robustness enhancement for INC**  
 -	In-network security policies and anomaly detection mechanisms
 -	Fault isolation, recovery, and robustness in deployed programmable networks
 -	Experiences and lessons from production-level or testbed-scale INC deployments
@@ -166,16 +166,10 @@ presented.
 To ensure strong participation and broad visibility, the **INCAS 2025** workshop will be promoted through multiple channels, including the official ACM CoNEXT website, academic mailing lists, and a range of social media platforms (e.g., LinkedIn, Twitter/X, WeChat, and others). We will also conduct direct outreach to leading researchers and industry professionals in relevant fields.
 
 ---
-**Important Date (All AoE Time)**
-
-Workshop paper abstract registration: July 8th, 2025
-
-Workshop paper submission: July 15th, 2025
-
-Notification of acceptance: August 31st, 2025
-
-Camera-ready workshop papers: September 25th, 2025
-
-Program available online: October 12th, 2025
-
+**Important Date (All AoE Time)**  
+Workshop paper abstract registration: July 8th, 2025  
+Workshop paper submission: July 15th, 2025  
+Notification of acceptance: August 31st, 2025  
+Camera-ready workshop papers: September 25th, 2025  
+Program available online: October 12th, 2025  
 List of organization details: October 12th, 2025
