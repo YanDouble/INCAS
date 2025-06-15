@@ -1,9 +1,6 @@
-### ACM CoNEXT Workshop on In-Network Computing and AI for Distributed Systems (INCAS 2025)
-
-<h2 style="border-bottom: none;">Steering Co-Chairs</h2>
+<h3 style="border-bottom:none;color:blue;">ACM CoNEXT Workshop on In-Network Computing and AI for Distributed Systems (INCAS 2025)</h3>
 
 ---
-
 **Steering Co-Chairs**  
 Deke Guo (National University of Defense Technology)  
 Dezun Dong (National University of Defense Technology)  
