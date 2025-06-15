@@ -14,6 +14,7 @@ Theophilus A. Benson (Carnegie Mellon University)
 **Organization Co-Chairs：**
 
 **Wenfei Wu (Peking University)**
+
 Dr. Wenfei Wu is a Boya young scholar and an assistant professor in the School of Computer Science at Peking University. He received his PhD from University of Wisconsin-Madison. His research focuses on computer networks and distributed systems and published more than 50 papers. His research about In-Network Computing (INC) received several awards, including NSDI’21 best paper award for INC-accelerated distributed training, ASPLOS’21 distinguished paper award for INC-accelerate data analytics, and CPCC’24 (Chinese Computation Power Conference) best academic paper for RDMA-compatible collective communication. Dr. Wu is the leading the INC workgroup in Ethernet+ Consortium.
 
 **Xiaoxi Zhang (Sun Yat-sen University)**
