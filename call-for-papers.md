@@ -4,11 +4,9 @@
 
 **Steering Co-Chairs**
 
-Deke Guo (National University of Defense Technology)
-
-Dezun Dong (National University of Defense Technology)
-
-Theophilus A. Benson (Carnegie Mellon University)
+Deke Guo (National University of Defense Technology)  
+Dezun Dong (National University of Defense Technology)  
+Theophilus A. Benson (Carnegie Mellon University)  
 
 
 **Organization Co-Chairs：**
