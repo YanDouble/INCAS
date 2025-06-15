@@ -1,6 +1,6 @@
 ### ACM CoNEXT Workshop on In-Network Computing and AI for Distributed Systems (INCAS 2025)
 
-<h2 style="color:#2e6da4; border-bottom: none;">Steering Co-Chairs</h2>
+<h2 style="border-bottom: none;">Steering Co-Chairs</h2>
 
 ---
 
